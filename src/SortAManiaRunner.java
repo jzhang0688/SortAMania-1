@@ -1,6 +1,6 @@
 package com.company;
 
-public class Main {
+public class SortAManiaRunner {
 
     public static void main(String[] args) {
         SortCompetition team5=new Team5SortCompetition();
